@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cc5dc2ca-6c6c-450e-bb62-3273597b5001" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/javascript/packs/axios/basic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -597,12 +597,12 @@
       <updated>1505932303707</updated>
       <workItem from="1505932304896" duration="5693000" />
       <workItem from="1506013839597" duration="9976000" />
-      <workItem from="1506084275852" duration="13827000" />
+      <workItem from="1506084275852" duration="14348000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29496000" />
+    <option name="totallyTimeSpent" value="30017000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-2244" y="26" width="1423" height="1226" extended-state="0" />
