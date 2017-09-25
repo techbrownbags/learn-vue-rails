@@ -1,0 +1,20 @@
+<h1>COMPUTED PROPERTIES</h1>
+<div id="root">
+  <h1>
+    {{ reverse_message }}
+  </h1>
+  <h1>ALL</h1>
+  <ul v-for="task in tasks">
+    <li>{{ task.description }} - {{ task.completed }} </li>
+  </ul>
+  <h1>COMPLETED</h1>
+  <ul v-for="task in completed_tasks">
+    <li>{{ task.description }}<button @click="mark_incomplete(task)">incomplete</button></li>
+  </ul>
+  <h1>INCOMPLETE</h1>
+  <ul v-for="task in incomplete_tasks">
+    <li>{{ task.description }}<button @click="mark_completed(task)">complete</button></li>
+  </ul>
+</div>
+
+<%= javascript_pack_tag 'computed/basic' %>

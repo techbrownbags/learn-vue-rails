@@ -1,0 +1,9 @@
+<h1>COMM - BASIC</h1>
+Limited to parent child components!!
+
+<div id="root">
+  <coupon @applied="onCouponApplied"></coupon>
+  <h1 v-if="applied">you used coupon!!</h1>
+</div>
+
+<%= javascript_pack_tag 'communication/basic' %>

@@ -1,0 +1,12 @@
+<h1>Events</h1>
+<div id="site">
+  <input type="text" v-model="name">
+  <p>SITE NAME: {{ name }}</p>
+
+  <ul>
+    <li v-for="sys in systems" v-text="sys"></li>
+  </ul>
+  <input id="sys-name-new" type=text" v-model="newSystem">
+  <button @click="addSystem">Add System</button>
+</div>
+<%= javascript_pack_tag 'data_binding/reactive' %>
