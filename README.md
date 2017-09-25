@@ -1,26 +1,5 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Using this project to learn vue.js 2.x on Rails 5.1.4. 
 
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-=======
-# learn-vue-rails
+* laracasts.com/series/learn-vue-2-step-by-step
