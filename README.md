@@ -2,18 +2,44 @@
 
 To learn vue.js I'm using Laracasts' [Learn vue 2 step by step](laracasts.com/series/learn-vue-2-step-by-step) in a rails 5.2.4 webpacker project. Some sections I've skipped or augmented which I'll try to outline below
 ## Learn vue 2 step by step sections
-* Basic Data Binding
-* Setup Vue Devtools
-* Lists
-* Vue Event Listeners
-* attribute and Class binding
-* The Need for Computed Properties
-* Components 101
-* Components Within Components
-* Practical Component Exercise #1: Message
-* Practical Component Exercise #2: Modal (SKIPPED)
-* Practical Component Exercise #3: Tabs (SKIPPED)
-* Component Communication Example #1: Custom Events
+
+| SECTION  | CODE | STATUS |
+|----------|------|---------|
+| Basic Data Binding | /app/view/data_binding/basic.html.erb | 100% |
+|                    | /app/view/data_binding/reactive.html.erb| 100% |
+| Setup Vue Devtools | /app/view/ | |
+| Lists | /app/view/ | |
+| Vue Event Listeners | /app/view/ | |
+| Attribute and Class binding | /app/view/ | |
+| The Need for Computed Properties | /app/view/ | |
+| Components 101 | /app/view/ | |
+| Components Within Components | /app/view/ | |
+| Practical Component Exercise #1: Message | /app/view/ | |
+| Practical Component Exercise #2: Modal | (SKIPPED) | |
+| Practical Component Exercise #3: Tabs  | (SKIPPED) | |
+| Component Communication Example #1: Custom Events | /app/view/ | |
+| Component Communication Example #2: Event Dispatcher  | /app/view/ | |
+| Named Slots in a Nutshell | /app/view/ | |
+| Single-Use Components and Inline Templates | /app/view/ | |
+| Webpack and vue-cli | /app/view/ | |
+| Hot Module Replacement | /app/view/ | |
+| Vue Ajax Requests With Axios | /app/view/ | |
+| Object-Oriented Forms: Part 1 | /app/view/ | |
+| Object-Oriented Forms: Part 2 | /app/view/ | |
+| Object-Oriented Forms: Part 3 | /app/view/ | |
+| Webpack Config From Scratch | /app/view/ | |
+| This is Laravel Mix | /app/view/ | |
+| Shared State 101 | /app/view/ | |
+| Custom Input Components | /app/view/ | |
+| Vue SPA Essentials: Routing | /app/view/ | |
+| SPAs and the Backend | /app/view/ | |
+| Vue Filters | /app/view/ | |
+| Dedicated Form Components | /app/view/ | |
+| Testing Vue: Part 1 | /app/view/ | |
+| Vue Component Responsibility | /app/view/ | |
+| Vue Subclassing | /app/view/ | |
+| Scoped Slots | /app/view/ | |
+
 ## GETTING STARTED
 * ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 * brew install openssl
