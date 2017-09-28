@@ -7,27 +7,29 @@ To learn vue.js I'm using Laracasts' [Learn vue 2 step by step](laracasts.com/se
 |----------|------|---------|
 | Basic Data Binding | /app/view/data_binding/basic.html.erb | 100% |
 |                    | /app/view/data_binding/reactive.html.erb| 100% |
-| Setup Vue Devtools | /app/view/ | |
+| Setup Vue Devtools | N/A | |
 | Lists | /app/view/ | |
-| Vue Event Listeners | /app/view/ | |
-| Attribute and Class binding | /app/view/ | |
-| The Need for Computed Properties | /app/view/ | |
-| Components 101 | /app/view/ | |
-| Components Within Components | /app/view/ | |
-| Practical Component Exercise #1: Message | /app/view/ | |
-| Practical Component Exercise #2: Modal | (SKIPPED) | |
-| Practical Component Exercise #3: Tabs  | (SKIPPED) | |
-| Component Communication Example #1: Custom Events | /app/view/ | |
-| Component Communication Example #2: Event Dispatcher  | /app/view/ | |
-| Named Slots in a Nutshell | /app/view/ | |
-| Single-Use Components and Inline Templates | /app/view/ | |
-| Webpack and vue-cli | /app/view/ | |
-| Hot Module Replacement | /app/view/ | |
-| Vue Ajax Requests With Axios | /app/view/ | |
-| Object-Oriented Forms: Part 1 | /app/view/ | |
-| Object-Oriented Forms: Part 2 | /app/view/ | |
-| Object-Oriented Forms: Part 3 | /app/view/ | |
-| Webpack Config From Scratch | /app/view/ | |
+| Vue Event Listeners | | |
+| Attribute and Class binding |  | |
+| The Need for Computed Properties | /app/view/computed/basic.html.erb | 100%  |
+| Components 101 | /app/view/components/basic.html.erb | 100% |
+| Components Within Components | /app/view/components/child.html.erb | 100% |
+|                              | /app/view/components/data.html.erb | 100% |
+|                              | /app/view/components/props.html.erb | 100% |
+| Practical Component Exercise #1: Message | SKIPPED | |
+| Practical Component Exercise #2: Modal | SKIPPED | |
+| Practical Component Exercise #3: Tabs  | SKIPPED | |
+| Component Communication Example #1: Custom Events | /app/view/communication/basic.html.erb | 100% |
+| Component Communication Example #2: Event Dispatcher  | /app/view/communication/dispatcher.html.erb | 100% |
+| Named Slots in a Nutshell | | |
+| Single-Use Components and Inline Templates |  | |
+| Webpack and vue-cli | n/a | |
+| Hot Module Replacement |  | |
+| Vue Ajax Requests With Axios | /app/view/projects/index.html.erb   | 100% |
+| Object-Oriented Forms: Part 1 | /app/view/projects/index.html.erb  | 100% |
+| Object-Oriented Forms: Part 2 | /app/view/projects/index.html.erb  | 100% |
+| Object-Oriented Forms: Part 3 | /app/view/projects/index.html.erb  | 100% |
+| Webpack Config From Scratch | n/a | |
 | This is Laravel Mix | /app/view/ | |
 | Shared State 101 | /app/view/ | |
 | Custom Input Components | /app/view/ | |
